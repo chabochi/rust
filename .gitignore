@@ -1,0 +1,11 @@
+# Rust build artifacts
+/target/
+
+# Rust package manager files
+Cargo.lock
+
+# IDE and editor files (optional, based on your setup)
+.idea/
+*.swp
+*.suo
+*.vscode/
